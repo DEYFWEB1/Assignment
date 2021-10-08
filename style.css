@@ -1,6 +1,7 @@
 *{
     margin: 0;
     padding: 0;
+    overflow: hidden;
 }
 .firstp{
     line-height: 25px;
@@ -9,6 +10,8 @@
 .first1{
     margin-top: 10%;
     margin-left: 15%;
+    float: left;
+    width: 30%;
     
 }
 .firsth1{
@@ -32,9 +35,16 @@
     font-family: sans-serif;
     font-size: 10px;
 }
-.first2 img{
+.first2{
     float: right;
+    width: 50%;
 }
 .first{
-    display: inline;
+    height: 600px;
+}
+
+.first2 img{
+    height: 600px;
+    background-size: contain;
+
 }
