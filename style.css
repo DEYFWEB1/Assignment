@@ -1,14 +1,14 @@
 *{
     margin: 0;
     padding: 0;
-    overflow: hidden;
+    
 }
 .firstp{
     line-height: 25px;
     padding-bottom: 20px;
 }
 .first1{
-    margin-top: 10%;
+    margin-top: 15%;
     margin-left: 15%;
     float: left;
     width: 30%;
@@ -41,6 +41,7 @@
 }
 .first{
     height: 600px;
+    overflow: hidden;
 }
 
 .first2 img{
@@ -48,3 +49,458 @@
     background-size: contain;
 
 }
+.second {
+     padding: 120px 0;
+     height: 800px;
+     background-color: teal;
+     
+}
+.second1{
+    text-align: center;
+    padding-bottom: 100px;
+}
+.secondp{
+    letter-spacing: 2px;
+    color: white;
+}
+.secondh1{
+    font-size: 40px;
+    color: white;
+}
+
+
+/*second start*/
+
+
+.second-main{
+    margin: 0 10%;
+
+}
+
+
+/*This is first*/
+
+
+.second2{
+    background-color: white;
+    text-align: center;
+    width: 20%;
+    padding: 20px 10px;
+    float: left;
+}
+.second2 img{
+    height: 200px;
+    width: 170px;
+}
+.second2h1{
+    color: teal;
+    line-height: 35px;
+    font-size: 20px;
+}
+.second2p{
+    line-height: 20px;
+    padding-bottom: 20px;
+}
+.second2button{
+    border: 1px solid teal;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+.second2button a{
+    text-decoration: none;
+    color: teal;
+}
+
+
+/*This is second*/
+
+
+.second3{
+    background-color: white;
+    text-align: center;
+    width: 20%;
+    padding: 20px 10px;
+    float: right;
+    width: 20%;
+}
+.second3 img{
+    height: 200px;
+    width: 170px;
+}
+.second3h1{
+    color: teal;
+    line-height: 35px;
+    font-size: 20px;
+}
+.second3p{
+    line-height: 20px;
+    padding-bottom: 20px;
+}
+.second3button{
+    border: 1px solid teal;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+.second3button a{
+    text-decoration: none;
+    color: teal;
+}
+
+
+/*This is third*/
+
+.second4{
+    background-color: white;
+    text-align: center;
+    width: 20%;
+    padding: 20px 10px;
+    float: right;
+    margin-right: 45px;
+}
+.second4 img{
+    height: 200px;
+    width: 170px;
+}
+.second4h1{
+    color: teal;
+    line-height: 35px;
+    font-size: 20px;
+}
+.second4p{
+    line-height: 20px;
+    padding-bottom: 20px;
+}
+.second4button{
+    border: 1px solid teal;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+.second4button a{
+    text-decoration: none;
+    color: teal;
+}
+
+
+/*This is Foutth*/
+
+.second5{
+    background-color: white;
+    text-align: center;
+    width: 20%;
+    padding: 20px 10px;
+    float: right;
+    width: 20%;
+    margin-right: 45px;
+}
+.second5 img{
+    height: 200px;
+    width: 170px;
+}
+.second5h1{
+    color: teal;
+    line-height: 35px;
+    font-size: 20px;
+}
+.second5p{
+    line-height: 20px;
+    padding-bottom: 20px;
+}
+.second5button{
+    border: 1px solid teal;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+.second5button a{
+    text-decoration: none;
+    color: teal;
+}
+
+/*This is third*/
+.third-section{
+    padding: 100px 100px;
+}
+.third-section-sub {
+    display: flex;
+}
+
+.third1 {
+    flex-basis: 33.33%;
+}
+.third2 {
+    flex-basis: 33.33%;
+}
+.third3 {
+    flex-basis: 33.33%;
+}
+.third-section img {
+    width: 100%;
+}
+.fourth-section{
+    padding: 100px 50px 400px 50px;
+    background-color: #abd0d8;
+}
+.fourth1{
+    text-align: center;
+}
+h1.fourthh1 {
+    font-size: 35px;
+    padding-bottom: 15px;
+}
+p.fourthp {
+    font-size: 17px;
+    line-height: 25px;
+    padding-bottom: 15px;
+}
+button.fouthbutton a {
+    text-decoration: none;
+    color: white;
+}
+button.fouthbutton {
+    padding: 10px 15px;
+    background: orange;
+    border: transparent;
+    border-radius: 5px;
+}
+
+/* This is fifth*/
+
+.fifth-section{
+    padding: 50px 100px;
+}
+.fifth{
+    display: flex;
+}
+.fifth1 {
+    flex-basis: 50%;
+    padding: 75px;
+    background-color: white;
+}
+h1.fifthh1 {
+    font-size: 50px;
+    letter-spacing: 2px;
+    font-family: serif;
+    padding-bottom: 15px;
+}
+.fifth2{
+    flex-basis: 50%;
+}
+p.fifthp {
+    font-size: 25px;
+    line-height: 34px;
+    padding-bottom: 20px;
+}
+p.fifthp1 {
+    font-size: 22px;
+    padding-bottom: 20px;
+}
+button.fifthbutton {
+    padding: 15px 35px;
+    background: orange;
+    border: transparent;
+    border-radius: 5px;
+}
+button.fifthbutton a {
+    text-decoration: none;
+    color: white;
+    font-weight: 900;
+}
+.fifth2nd{
+    display: flex;
+}
+.img1{
+    flex-basis: 16.6666666667%;
+}
+.img2{
+    flex-basis: 16.6666666667%;
+}
+.img3{
+    flex-basis: 16.6666666667%;
+}
+.img4{
+    flex-basis: 16.6666666667%;
+}
+.img5{
+    flex-basis: 16.6666666667%;
+}
+.img6{
+    flex-basis: 16.6666666667%;
+}
+.fifth2 img {
+    height: 680px;
+}
+section.fifth-section {
+    position: relative;
+    bottom: 310px;
+}
+
+/*This is Sixth*/
+
+.sixth-section{
+
+}
+
+.sixth{
+    display: flex;
+    padding: 0 100px;
+    padding-bottom: 100px;
+}
+
+.sixth1{
+    flex-basis: 50%;
+}
+.sixth2{
+    flex-basis: 50%;
+    padding:0 100px;
+    z-index: 999;
+}
+.sixth1 img {
+    height: 600px;
+}
+.sixth2-sub{
+    background-color: #e0e0e0;
+    padding: 100px 90px;
+}
+h1.sixthh1 {
+    line-height: 70px;
+    font-size: 50px;
+    letter-spacing: 4px;
+}
+p.sixthp {
+    font-size: 20px;
+    line-height: 30px;
+    padding-bottom: 10px;
+}
+p.sixthp1 {
+    font-size: 20px;
+    padding-bottom: 10px;
+}
+p.sixthp1 {
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+button.sixthbutton {
+    padding: 15px 35px;
+    background: orange;
+    border: transparent;
+    border-radius: 5px;
+}
+button.sixthbutton a {
+    text-decoration: none;
+    color: white;
+    font-weight: 900;
+}
+
+/*seventh*/
+
+.seventh{
+    text-align: center;
+}
+
+.seventh img{
+    height: 300px;
+    width: auto;
+    border: 20px solid white;
+    background-size: contain;
+}
+
+section.seventh img {
+    position: relative;
+    top: -274px;
+    left: -130px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
