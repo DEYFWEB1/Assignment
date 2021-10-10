@@ -217,7 +217,7 @@
 
 /*This is third*/
 .third-section{
-    padding: 100px 100px;
+    padding: 300px 100px;
 }
 .third-section-sub {
     display: flex;
@@ -228,13 +228,57 @@
 }
 .third2 {
     flex-basis: 33.33%;
+    position: relative;
+    top: 100px;
 }
 .third3 {
     flex-basis: 33.33%;
+    position: relative;
+    top: 200px;
 }
 .third-section img {
     width: 100%;
 }
+.third11 {
+    padding: 50px 20px;
+    color: white;
+    background: black;
+    font-size: 30px;
+    margin-top: -5px;
+}
+
+.third21 {
+    padding: 50px 30px;
+    color: white;
+    background: orangered;
+    font-size: 30px;
+    margin-top: -0px;
+}
+p.third2p {
+    font-size: 20px;
+    line-height: 35px;
+    letter-spacing: 1px;
+}
+h1.third2h1 {
+    font-size: 50px;
+    line-height: 70px;
+}
+i.fas.fa-quote-right {
+    font-size: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+/*Fourth section*/
+
+
 .fourth-section{
     padding: 100px 50px 400px 50px;
     background-color: #abd0d8;
@@ -243,20 +287,23 @@
     text-align: center;
 }
 h1.fourthh1 {
-    font-size: 35px;
-    padding-bottom: 15px;
+    font-size: 65px;
+    padding-bottom: 20px;
 }
 p.fourthp {
-    font-size: 17px;
+    font-size: 27px;
     line-height: 25px;
-    padding-bottom: 15px;
+    padding-bottom: 25px;
 }
 button.fouthbutton a {
     text-decoration: none;
     color: white;
+    font-size: 20px;
+    font-weight: 900;
+    letter-spacing: 1px;
 }
 button.fouthbutton {
-    padding: 10px 15px;
+    padding: 20px 30px;
     background: orange;
     border: transparent;
     border-radius: 5px;
@@ -409,16 +456,75 @@ section.seventh img {
     left: -130px;
 }
 
+/*Eighth*/
 
+.eighth{
+    padding: 150px 100px;
+    background: #e0e0e0;
+    display: flex;
+}
+p.no1p {
+    display: inline;
+    position: relative;
+    left: 40px;
+    bottom: 50px;
+    font-size: 20px;
+    line-height: 25px;
+    letter-spacing: 1px;
+}
 
+.check1 h1 {
+    display: inline;
+}
 
+h2.no1h1 {
+    display: inline;
+    font-size: 55px;
+    color: orange;
+}
+.eighth1{
+    flex-basis: 50%;
+}
 
+.eighth2{
+    flex-basis: 50%;
+    text-align: center;
+}
+.eighth-sub{
+    background-color: white;
+    padding: 40px 90px;
+}
+.eighthh1{
+    line-height: 70px;
+    font-size: 50px;
+    letter-spacing: 4px;
+}
+.eighthp{
+    font-size: 20px;
+    line-height: 30px;
+    padding-bottom: 10px;
+}
+.eighthp1{
+    font-size: 20px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
 
-
-
-
-
-
+.eighthbutton {
+    padding: 15px 35px;
+    background: orange;
+    border: transparent;
+    border-radius: 5px;
+}
+.eighthbutton a {
+    text-decoration: none;
+    color: white;
+    font-weight: 900;
+}
+.eighth-sub img{
+    height: 60%;
+    width: 60%;
+}
 
 
 
